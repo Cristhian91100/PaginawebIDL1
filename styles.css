@@ -1,0 +1,15 @@
+.container{
+    background-color: rgb(29, 151, 25);
+    border-bottom: 2px solid rgb(0, 0, 0);
+    box-shadow: 2px 4px 15px black;
+}
+.navigation .nav .nav-item a{
+    font-size: larger;
+    color: antiquewhite;
+}
+.titulo{
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 50px;
+}
+
